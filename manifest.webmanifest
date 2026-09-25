@@ -1,0 +1,20 @@
+{
+  "name": "GERES Mobile",
+  "short_name": "GERES",
+  "description": "GERES Mobile - Relatório de Campo (Gerência de Resíduos Sólidos - SISEP)",
+  "start_url": "./app.html",
+  "scope": "./",
+  "id": "/geres/app.html",
+  "display": "standalone",
+  "background_color": "#0052A2",
+  "theme_color": "#0052A2",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "geres-32.png", "sizes": "32x32", "type": "image/png"},
+    {"src": "geres-180.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "geres-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "geres-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable"},
+    {"src": "geres-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "geres-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
